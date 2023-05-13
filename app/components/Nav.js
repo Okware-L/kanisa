@@ -2,7 +2,7 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <nav className='flex justify-between p-5'>
+    <nav className='flex p-5 fixed text-white mb-10'>
         <div>
             LOGO
         </div>
